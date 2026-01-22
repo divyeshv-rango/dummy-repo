@@ -1,0 +1,12 @@
+.radial-masked-bg {
+  position: absolute;
+  inset: 0;
+  height: 100%;
+  width: 100%;
+  background-image: url('../assets/Header Image (1).png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  z-index: 0;
+}
+
