@@ -20,7 +20,7 @@ export default function RadialMaskedVideo() {
   return (
     <div className="relative h-screen w-full overflow-hidden">
       {/* Background Image Layer */}
-      <div className="radial-masked-bg" />
+      <div className="radial-masked-bg demo" />
       
       {/* Video Layer with Mask */}
       <video
